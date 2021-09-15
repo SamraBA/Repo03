@@ -4,7 +4,7 @@ function main(numOne, numTwo) {
      var numTwo;
      
   
-     product = numOne * numTwo;
+     var product = numOne * numTwo;
   
    // Only change code above this line
      return product;
