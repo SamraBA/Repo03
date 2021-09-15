@@ -4,7 +4,7 @@ function main(numOne, numTwo) {
    var numTwo;
    
 
-   difference = numOne - numTwo;
+   var difference = numOne - numTwo;
 
  // Only change code above this line
    return difference;
